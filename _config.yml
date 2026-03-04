@@ -1,0 +1,20 @@
+title: POE 공략 블로그
+description: Path of Exile 파밍 전략 및 공략 정리
+lang: ko
+timezone: Asia/Seoul
+
+theme: minima
+
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CLAUDE.md
+  - "*.json"
+  - vendor
