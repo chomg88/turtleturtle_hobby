@@ -1,22 +1,114 @@
-title: Turtle Turtle Hobby
-description: 게임 공략 및 취미 블로그
-baseurl: "/turtleturtle_hobby"
-url: "https://chomg88.github.io"
+theme: jekyll-theme-chirpy
+
 lang: ko
 timezone: Asia/Seoul
 
-theme: minima
+title: Turtle Turtle Hobby
+tagline: 게임 공략 및 취미 블로그
 
-minima:
-  skin: dark
+description: >-
+  Path of Exile 공략, 빌드 가이드, 파밍 전략 등 게임 관련 정보를 공유하는 블로그입니다.
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+url: "https://chomg88.github.io"
+baseurl: "/turtleturtle_hobby"
+
+github:
+  username: chomg88
+
+social:
+  name: Turtle Turtle
+  links:
+    - https://github.com/chomg88
+
+# Web Analytics Settings
+analytics:
+  google:
+    id:
+  goatcounter:
+    id:
+
+# Page views settings
+pageviews:
+  provider:
+
+theme_mode: dark
+
+cdn:
+
+avatar:
+
+toc: true
+
+comments:
+  provider:
+
+paginate: 10
+
+kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: true
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
+    values:
+      comments: false
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
+sass:
+  style: compressed
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  blanklines: false
+  ignore:
+    envs: [development]
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
+  - "*.gem"
+  - "*.gemspec"
+  - docs
+  - tools
+  - README.md
+  - LICENSE
   - CLAUDE.md
   - "*.json"
   - vendor
+  - Gemfile.lock
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
