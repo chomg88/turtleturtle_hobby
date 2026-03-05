@@ -3,7 +3,7 @@ layout: post
 title: "POE 3.28 리그 스타트 파밍 공략 - 초보자 추천 컨텐츠 3가지"
 date: 2026-03-04
 categories: [POE, 공략]
-tags: [파밍, 리그스타트, 블라이트, 하이스트, 에센스, 3.28, 초보자]
+tags: [파밍, 리그스타트, 블라이트, 하이스트, 에센스, "3.28", 초보자]
 ---
 
 > **출처:** [POE 3.28 리그 스타트 파밍 공략 영상 (YouTube)](https://www.youtube.com/watch?v=idwaHC9ZoFo)

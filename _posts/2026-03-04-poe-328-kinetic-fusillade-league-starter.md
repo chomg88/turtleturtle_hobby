@@ -3,7 +3,7 @@ layout: post
 title: "POE 3.28 키네틱 퓨질레이드 리그 스타터 빌드 공략"
 date: 2026-03-04
 categories: [POE, 빌드]
-tags: [키네틱퓨질레이드, 발리스타, 리그스타터, 템플러, 3.28, 마나]
+tags: [키네틱퓨질레이드, 발리스타, 리그스타터, 템플러, "3.28", 마나]
 ---
 
 > **출처:** [POE 3.28 Kinetic Fusillade League Starter 빌드 가이드 (YouTube)](https://www.youtube.com/watch?v=h86YcMqi5OM)
