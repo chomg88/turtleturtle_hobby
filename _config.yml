@@ -22,14 +22,12 @@ social:
 
 # Web Analytics Settings
 analytics:
-  google:
-    id:
   goatcounter:
-    id:
+    id: chomg88
 
 # Page views settings
 pageviews:
-  provider:
+  provider: goatcounter
 
 theme_mode: dark
 
