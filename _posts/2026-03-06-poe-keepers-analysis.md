@@ -5,13 +5,13 @@ date: 2026-03-06
 categories: [POE, 경제분석]
 tags: [수호자들, 경제, 아이템시세, 파밍전략, 빌드메타]
 image:
-  path: /images/poe/top_items_20260306_163900.png
+  path: /images/poe/top_items_20260306_165622.png
   alt: "수호자들 리그 고가 아이템"
 ---
 
 
 > **자동 분석 리포트** — poe.ninja 데이터 기준
-> 분석 일시: 2026-03-06 16:39 &nbsp;|&nbsp; 게임: **POE1** &nbsp;|&nbsp; 리그: **수호자들**
+> 분석 일시: 2026-03-06 16:56 &nbsp;|&nbsp; 게임: **POE1** &nbsp;|&nbsp; 리그: **수호자들**
 > 💰 디바인 오브 = **307c**
 
 ---
@@ -102,70 +102,112 @@ image:
 | 49 | 스킬 젬 | **지속시간 증폭 보조** | More Duration Support | 55908c | 182.35d | 27 | ➡️ |
 | 50 | 스킬 젬 | **공허 조작 보조** | Void Manipulation Support | 54554c | 177.93d | 44 | ➡️ |
 
-## 🔥 수요 높은 아이템 TOP 50
+## 🔥 거래량 많은 아이템 TOP 50
 
-> 수요 점수 = 가격 × log(거래량) — 실제 거래가 활발한 아이템
+> 매물이 많고 가격이 형성된 실제 거래 활발 아이템
 
-| # | 아이템 (한국어) | 영어명 | 카오스 | 디바인 | 수요점수 | 추세 |
-|:-:|----------------|--------|-------:|-------:|---------:|:----:|
-| 1 | **일촉즉발 보조** | Volatility Support | 3761624c | 12268.83d | 5712078 | ➡️ |
-| 2 | **대마법사 보조** | Archmage Support | 1626456c | 5304.81d | 2244853 | ➡️ |
-| 3 | **신비학자 낙인** | Arcanist Brand | 1626456c | 5304.81d | 2041646 | ➡️ |
-| 4 | **목소리** | Voices | 1084304c | 3536.54d | 1832686 | ➡️ |
-| 5 | **상위 다중 투사체 보조** | Greater Multiple Projectiles Support | 542152c | 1768.27d | 1644140 | ➡️ |
-| 6 | **각성한 상위 다중 투사체 보조** | Awakened Greater Multiple Projectiles Support | 2710760c | 8841.36d | 1293361 | ➡️ |
-| 7 | **트라투스의 폭풍 부름** | Storm Call of Trarthus | 542152c | 1768.27d | 1213361 | ➡️ |
-| 8 | **모독** | Desecrate | 542152c | 1768.27d | 939221 | ➡️ |
-| 9 | **독성 운반자** | Plague Bearer | 542152c | 1768.27d | 921100 | ➡️ |
-| 10 | **Foulborn Mageblood** | Foulborn Mageblood | 759013c | 2475.58d | 790431 | ➡️ |
-| 11 | **각성한 주문 메아리 보조** | Awakened Spell Echo Support | 1626456c | 5304.81d | 776017 | ➡️ |
-| 12 | **극악무도의 격노의 유령 소환** | Summon Raging Spirit of Enormity | 542152c | 1768.27d | 716844 | ➡️ |
-| 13 | **사술의 꽃 보조** | Hex Bloom Support | 542152c | 1768.27d | 693279 | ➡️ |
-| 14 | **삿된 헤드헌터** | Foulborn Headhunter | 445008c | 1451.43d | 650779 | ➡️ |
-| 15 | **불안정의 서리 폭탄** | Frost Bomb of Instability | 542152c | 1768.27d | 621376 | ➡️ |
-| 16 | **쇄도의 연쇄 번개** | Arc of Surging | 542152c | 1768.27d | 585080 | ➡️ |
-| 17 | **긴급 명령 보조** | Urgent Orders Support | 542152c | 1768.27d | 542152 | ➡️ |
-| 18 | **철의 요새** | The Iron Fortress | 378532c | 1234.61d | 529165 | ➡️ |
-| 19 | **각성한 번개 피해 추가 보조** | Awakened Added Lightning Damage Support | 1626456c | 5304.81d | 489612 | ➡️ |
-| 20 | **저격수의 징표** | Sniper's Mark | 376167c | 1226.90d | 462854 | ➡️ |
-| 21 | **반동의 독성 혼합물** | Poisonous Concoction of Bouncing | 542152c | 1768.27d | 421876 | ➡️ |
-| 22 | **상위 다중 투사체 보조** | Greater Multiple Projectiles Support | 403249c | 1315.23d | 364170 | ➡️ |
-| 23 | **각성한 계몽 보조** | Awakened Enlighten Support | 1084304c | 3536.54d | 326408 | ➡️ |
-| 24 | **각성한 강화 보조** | Awakened Empower Support | 1084304c | 3536.54d | 326408 | ➡️ |
-| 25 | **낫의 칼날 소용돌이** | Blade Vortex of the Scythe | 542152c | 1768.27d | 326408 | ➡️ |
-| 26 | **탄약의 강철 파편** | Shattering Steel of Ammunition | 542152c | 1768.27d | 326408 | ➡️ |
-| 27 | **삿된 사고와 움직임의 손아귀** | Foulborn Hand of Thought and Motion | 300960c | 981.60d | 324790 | ➡️ |
-| 28 | **명상** | Clarity | 162655c | 530.51d | 289225 | ➡️ |
-| 29 | **지속시간 증폭 보조** | More Duration Support | 542152c | 1768.27d | 258672 | ➡️ |
-| 30 | **Mobilised Mire** | Mobilised Mire | 542152c | 1768.27d | 258672 | ➡️ |
-| 31 | **원죄** | Original Sin | 325079c | 1060.27d | 252961 | ➡️ |
-| 32 | **각성한 번개 관통 보조** | Awakened Lightning Penetration Support | 167724c | 547.05d | 174667 | ➡️ |
-| 33 | **각성한 주문 메아리 보조** | Awakened Spell Echo Support | 542152c | 1768.27d | 163204 | ➡️ |
-| 34 | **각성한 강화 보조** | Awakened Empower Support | 542152c | 1768.27d | 163204 | ➡️ |
-| 35 | **Foulborn Doon Cuebiyari** | Foulborn Doon Cuebiyari | 127156c | 414.73d | 141645 | ➡️ |
-| 36 | **불타는 화살** | Burning Arrow | 54238c | 176.90d | 97964 | ➡️ |
-| 37 | **The Golden Charlatan** | The Golden Charlatan | 67716c | 220.86d | 92211 | ➡️ |
-| 38 | **덫 보조** | Trap Support | 54224c | 176.86d | 92125 | ➡️ |
-| 39 | **공허 조작 보조** | Void Manipulation Support | 54554c | 177.93d | 90189 | ➡️ |
-| 40 | **삿된 래스피스 구체** | Foulborn Rathpith Globe | 53882c | 175.74d | 84498 | ➡️ |
-| 41 | **결빙의 얼음 폭발** | Ice Nova of Deep Freeze | 66066c | 215.48d | 81291 | ➡️ |
-| 42 | **지속시간 증폭 보조** | More Duration Support | 55908c | 182.35d | 80908 | ➡️ |
-| 43 | **육탄 방어 보조** | Meat Shield Support | 54238c | 176.90d | 80888 | ➡️ |
-| 44 | **해골** | The Skeleton | 37591c | 122.61d | 79084 | ➡️ |
-| 45 | **삿된 기이한 본능** | Foulborn Unnatural Instinct | 45144c | 147.24d | 78920 | ➡️ |
-| 46 | **12% increased Brand Damage** | 12% increased Brand Damage | 37620c | 122.70d | 75240 | ➡️ |
-| 47 | **근접 사격 보조** | Point Blank Support | 54395c | 177.41d | 71922 | ➡️ |
-| 48 | **연발 사격 보조** | Barrage Support | 54251c | 176.94d | 71732 | ➡️ |
-| 49 | **사고와 움직임의 손아귀** | Hand of Thought and Motion | 54485c | 177.71d | 68394 | ➡️ |
-| 50 | **마법사의 피** | Mageblood | 43113c | 140.62d | 68109 | ➡️ |
+| # | 아이템 (한국어) | 영어명 | 카테고리 | 카오스 | 디바인 | 매물 | 추세 |
+|:-:|----------------|--------|----------|-------:|-------:|-----:|:----:|
+| 1 | **과대망상** | Megalomaniac | 고유 보석 | 9c | 0.03d | 171,295 | ➡️ |
+| 2 | **사구 지도** | Dunes Map | 맵 | 3c | 0.01d | 90,883 | ➡️ |
+| 3 | **찬란한 허영심** | Glorious Vanity | 고유 보석 | 10c | 0.03d | 69,642 | ➡️ |
+| 4 | **호전적인 신념** | Militant Faith | 고유 보석 | 10c | 0.03d | 65,151 | ➡️ |
+| 5 | **고상한 오만** | Elegant Hubris | 고유 보석 | 20c | 0.07d | 60,623 | ➡️ |
+| 6 | **잔인한 속박** | Brutal Restraint | 고유 보석 | 10c | 0.03d | 58,666 | ➡️ |
+| 7 | **감시자의 눈** | Watcher's Eye | 고유 보석 | 25c | 0.08d | 57,630 | ➡️ |
+| 8 | **치명적인 긍지** | Lethal Pride | 고유 보석 | 30c | 0.10d | 55,266 | ➡️ |
+| 9 | **밀림 계곡 지도** | Jungle Valley Map | 맵 | 1c | 0.00d | 31,737 | ➡️ |
+| 10 | **벤토의 도박** | Ventor's Gamble | 고유 장신구 | 2c | 0.01d | 22,546 | ➡️ |
+| 11 | **더럽혀진 대성당 지도** | Defiled Cathedral Map | 맵 | 2c | 0.01d | 22,288 | ➡️ |
+| 12 | **협곡 지도** | Canyon Map | 맵 | 1c | 0.00d | 17,729 | ➡️ |
+| 13 | **이중 인격** | Split Personality | 고유 보석 | 1c | 0.00d | 17,036 | ➡️ |
+| 14 | **해변 지도** | Beach Map | 맵 | 3c | 0.01d | 14,180 | ➡️ |
+| 15 | **맹독성 하수도 지도** | Toxic Sewer Map | 맵 | 5c | 0.02d | 14,017 | ➡️ |
+| 16 | **운명의 속박** | Bound By Destiny | 고유 보석 | 10c | 0.03d | 13,055 | ➡️ |
+| 17 | **해안 지도** | Strand Map | 맵 | 3c | 0.01d | 13,021 | ➡️ |
+| 18 | **요새 지도** | Fortress Map | 맵 | 20c | 0.07d | 11,484 | ➡️ |
+| 19 | **도시 광장 지도** | City Square Map | 맵 | 4c | 0.01d | 11,421 | ➡️ |
+| 20 | **10% increased Attack Damage** | 10% increased Attack Damage | 클러스터 보석 | 1c | 0.00d | 10,142 | ➡️ |
+| 21 | **그리움의 고리** | Circle of Nostalgia | 고유 장신구 | 2c | 0.01d | 10,128 | ➡️ |
+| 22 | **10% increased Spell Damage** | 10% increased Spell Damage | 클러스터 보석 | 1c | 0.00d | 9,799 | ➡️ |
+| 23 | **비통의 고리** | Circle of Anguish | 고유 장신구 | 2c | 0.01d | 9,381 | ➡️ |
+| 24 | **후회의 고리** | Circle of Regret | 고유 장신구 | 1c | 0.00d | 9,291 | ➡️ |
+| 25 | **Minions deal 10% increased Damage** | Minions deal 10% increased Damage | 클러스터 보석 | 20c | 0.07d | 9,204 | ➡️ |
+| 26 | **유죄의 고리** | Circle of Guilt | 고유 장신구 | 1c | 0.00d | 9,195 | ➡️ |
+| 27 | **두려움의 고리** | Circle of Fear | 고유 장신구 | 1c | 0.00d | 9,039 | ➡️ |
+| 28 | **용송곳니의 비상 모조품** | Replica Dragonfang's Flight | 고유 장신구 | 5c | 0.02d | 8,854 | ➡️ |
+| 29 | **10% increased Damage over Time** | 10% increased Damage over Time | 클러스터 보석 | 1c | 0.00d | 8,538 | ➡️ |
+| 30 | **10% increased Damage over Time** | 10% increased Damage over Time | 클러스터 보석 | 1c | 0.00d | 8,396 | ➡️ |
+| 31 | **10% increased Projectile Damage** | 10% increased Projectile Damage | 클러스터 보석 | 2c | 0.01d | 8,233 | ➡️ |
+| 32 | **6% increased Mana Reservation Efficiency of Skills** | 6% increased Mana Reservation Efficiency of Skills | 클러스터 보석 | 10c | 0.03d | 8,134 | ➡️ |
+| 33 | **고원 지도** | Plateau Map | 맵 | 1c | 0.00d | 8,052 | ➡️ |
+| 34 | **12% increased Lightning Damage** | 12% increased Lightning Damage | 클러스터 보석 | 10c | 0.03d | 7,938 | ➡️ |
+| 35 | **불멸의 육체** | Immortal Flesh | 고유 장신구 | 1c | 0.00d | 7,810 | ➡️ |
+| 36 | **학술원 지도** | Academy Map | 맵 | 1c | 0.00d | 7,632 | ➡️ |
+| 37 | **15% increased Critical Strike Chance** | 15% increased Critical Strike Chance | 클러스터 보석 | 1c | 0.00d | 7,444 | ➡️ |
+| 38 | **15% increased Critical Strike Chance** | 15% increased Critical Strike Chance | 클러스터 보석 | 5c | 0.02d | 7,391 | ➡️ |
+| 39 | **10% increased Projectile Damage** | 10% increased Projectile Damage | 클러스터 보석 | 7c | 0.02d | 7,332 | ➡️ |
+| 40 | **메사 지도** | Mesa Map | 맵 | 2c | 0.01d | 7,263 | ➡️ |
+| 41 | **환영 지도** | Phantasmagoria Map | 맵 | 1c | 0.00d | 7,244 | ➡️ |
+| 42 | **학살 심장** | Carnage Heart | 고유 장신구 | 1c | 0.00d | 7,105 | ➡️ |
+| 43 | **포탈** | Portal | 스킬 젬 | 1c | 0.00d | 6,817 | ➡️ |
+| 44 | **만 지도** | Coves Map | 맵 | 2c | 0.01d | 6,769 | ➡️ |
+| 45 | **10% increased Area Damage** | 10% increased Area Damage | 클러스터 보석 | 4c | 0.01d | 6,757 | ➡️ |
+| 46 | **상아 사원 지도** | Ivory Temple Map | 맵 | 1c | 0.00d | 6,661 | ➡️ |
+| 47 | **10% increased Area Damage** | 10% increased Area Damage | 클러스터 보석 | 8c | 0.03d | 6,483 | ➡️ |
+| 48 | **황무지 지도** | Wasteland Map | 맵 | 1c | 0.00d | 6,475 | ➡️ |
+| 49 | **6% increased maximum Energy Shield** | 6% increased maximum Energy Shield | 클러스터 보석 | 1c | 0.00d | 6,449 | ➡️ |
+| 50 | **4% increased maximum Life** | 4% increased maximum Life | 클러스터 보석 | 1c | 0.00d | 6,420 | ➡️ |
+
+## 🏆 인기 빌드 클래스 (래더 상위 200명)
+
+| 순위 | 클래스 (한국어) | 영어명 | 인원 | 비율 |
+|:---:|----------------|--------|-----:|-----:|
+| 1 | **데드아이** | Deadeye | 33 | 16.5% |
+| 2 | **상위 직업인 (아센던트)** | Ascendant | 24 | 12.0% |
+| 3 | **챔피언** | Champion | 22 | 11.0% |
+| 4 | **심문관** | Inquisitor | 19 | 9.5% |
+| 5 | **개척자** | Pathfinder | 19 | 9.5% |
+| 6 | **오컬티스트** | Occultist | 16 | 8.0% |
+| 7 | **저거넛** | Juggernaut | 14 | 7.0% |
+| 8 | **교황** | Hierophant | 11 | 5.5% |
+| 9 | **원소술사** | Elementalist | 9 | 4.5% |
+| 10 | **수호자** | Guardian | 8 | 4.0% |
+
+## ⚔️ 추천 파밍 전략
+
+### 🥇 강화된 Delirium 오브 맵 파밍
+
+- **예상 수익**: ~3.0d/h
+- **난이도**: 보통
+- Delirium 오브를 맵에 사용해 고밀도 클리어
+
+**팁:**
+- 5-Orb 덱스트로 최대 밀도
+- Simulacrum 조합 후 판매
+- Cluster Jewel 고가 모드 확인
+
+### 🥈 Delve 광업 (수직 탐사)
+
+- **예상 수익**: ~2.0d/h
+- **난이도**: 어려움
+- Delve 깊이 600+ 에서 고가 화석 및 광석 수집
+
+**팁:**
+- Azurite Mine 수평 이동 효율화
+- 아짜리트 업그레이드 우선순위
+- 광맥 클러스터 특화 파밍
 
 ## 📈 차트
 
-![고가 아이템 TOP 10](/images/poe/top_items_20260306_163900.png)
+![고가 아이템 TOP 10](/images/poe/top_items_20260306_165622.png)
 *고가 아이템 TOP 10*
 
-![수요 높은 아이템 TOP 10](/images/poe/demand_20260306_163900.png)
-*수요 높은 아이템 TOP 10*
+![거래량 많은 아이템 TOP 10](/images/poe/demand_20260306_165622.png)
+*거래량 많은 아이템 TOP 10*
+
+![아이템 가격 추이](/images/poe/price_history_20260306_165622.png)
+*아이템 가격 추이*
 
 
 ---
